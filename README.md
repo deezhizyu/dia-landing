@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Dia Landing</h1>
   
-  <a href="https://<your_account>.github.io/<repo_name>/">DEMO LINK</a>
+  <a href="https://deezhizyu.github.io/dia-landing/">DEMO LINK</a>
 
   <div>
     <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SCSS">
